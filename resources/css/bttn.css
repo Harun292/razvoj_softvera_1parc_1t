@@ -1,0 +1,12 @@
+#btnDodaj
+{
+    -fx-graphic: url("list-add.png");
+}
+#btnObrisi
+{
+    -fx-graphic: url("edit-delete.png");
+}
+#btnKraj
+{
+    -fx-graphic: url("application-exit.png");
+}
